@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="button_show">Show Message</string>
+    <string name="clear_screen">Clear Screen</string>
+</resources>
